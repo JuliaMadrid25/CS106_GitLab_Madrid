@@ -1,0 +1,4 @@
+Student Name: Julia Madrid
+Student ID: 2025-01-15412
+Section: BSCS 2B
+Course: CS 106 - App Dev
